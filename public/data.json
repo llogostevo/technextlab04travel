@@ -1,0 +1,50 @@
+{
+    "locations": [
+      {
+        "country": "Switzerland",
+        "cities": ["Geneva", "Lausanne"],
+        "year": 2023,
+        "month": 8,
+        "date": 1,
+        "duration": 2,
+        "slug": "switzerland"
+      },
+      {
+        "country": "France",
+        "cities": ["Paris"],
+        "year": 2023,
+        "month": 7,
+        "date": 29,
+        "duration": 2,
+        "slug": "france"
+      },
+      {
+        "country": "Italy",
+        "cities": ["Milan", "Venice"],
+        "year": 2023,
+        "month": 8,
+        "date": 3,
+        "duration": 4,
+        "slug": "italy"
+      },
+      {
+        "country": "Germany",
+        "cities": ["Berlin", "Cologne"],
+        "year": 2023,
+        "month": 8,
+        "date": 10,
+        "duration": 5,
+        "slug": "germany"
+      },
+      {
+        "country": "Belgium",
+        "cities": ["Brussels"],
+        "year": 2023,
+        "month": 8,
+        "date": 16,
+        "duration": 1,
+        "slug": "belgium"
+      }
+    ]
+  }
+  
