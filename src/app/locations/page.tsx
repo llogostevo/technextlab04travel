@@ -1,4 +1,11 @@
+import { Metadata } from "next";
 import Link from "next/link";
+
+export const metadata: Metadata = {
+    title: "Lloyd's Countries Visited",
+    description: "Countries and some expanded details",
+  }
+  
 
 type LocationSearchQuery = {
     sortBy: string;
